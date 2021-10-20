@@ -1,0 +1,11 @@
+void abertura(); 
+int letraexiste(char letra);
+void chuta();
+int jachutou(char letra);
+int win();
+void escolhepalavra();
+void addpalavra();
+int chuteserrados();
+void desenhaforca();
+int lose();
+void desenhos();
